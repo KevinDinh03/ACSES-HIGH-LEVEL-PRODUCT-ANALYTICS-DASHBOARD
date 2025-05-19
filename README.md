@@ -57,6 +57,7 @@ Asces Sound is a leading innovator in the audio technology industry, dedicated t
 
 </br>
 <h3 align="Left" style="color: red;">Final deliverables </h3>
-- Project report: 
-- Final dataset and dashboard: https://github.com/KevinDinh03/Asces-SQL-and-Power-BI-Project/tree/main/Project%20final%20results
+
+**- Project report:** https://github.com/KevinDinh03/Asces-SQL-and-Power-BI-Project/tree/main/Project%20work<br>
+**- Final dataset and dashboard:** https://github.com/KevinDinh03/Asces-SQL-and-Power-BI-Project/tree/main/Project%20final%20results<br>
 
