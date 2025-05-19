@@ -1,7 +1,7 @@
 <h1 align="center">ACSES HIGH-LEVEL PRODUCT ANALYTICS DASHBOARD USING POSTGRESQL AND POWER BI </h1>
 <h3 align="center">A project that simulates a real-life business problem on data manipulation and data visualisation using SQL and Power Bi </h3>
 <h3 align="Left" style="color: red;">Project vision </h3>
-- For this project, we will simulate a real business requirements that need us to complete<br>
+- For this project, through a simulated business requirement, I will showcase my skill in using PostgreSQL to manipulate datasets and visualising data in Power Bi for business intelligence purpose.<br>
 <h4 align="Left"> Business request: </h4> 
 - Constructs a high-level product analytics dashboards that provides key product performance metrics. This dashboards will support strategic decision-making and allow executives to track preformance trends effectively. What we need in the dashboard are:<br> </br>
 
