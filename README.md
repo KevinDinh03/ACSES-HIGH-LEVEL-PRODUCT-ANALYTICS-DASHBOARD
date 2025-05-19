@@ -1,4 +1,4 @@
-<h1 align="center">HIGH-LEVEL PRODUCT ANALYTICs DASHBOARD USING SQL AND POWER BI </h1>
+<h1 align="center">ACSES HIGH-LEVEL PRODUCT ANALYTICs DASHBOARD USING POSTGRESQL AND POWER BI </h1>
 <h3 align="center">A project that simulates a real-life business problem on data manipulation and data visualisation using SQL and Power Bi </h3>
 <h3 align="Left" style="color: red;">Project vision </h3>
 - For this project, we will simulate a real business requirements that need us to complete<br>
