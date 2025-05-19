@@ -20,21 +20,43 @@ Asces Sound is a leading innovator in the audio technology industry, dedicated t
 <br>
 </br>
 <h3 align="Left" style="color: red;">Datasets </h3>
-- For this project, I use the Airbnb dataset that is provided by the University of Auckland. The Airbnb dataset describes features of different accommodations and the corresponding guest satisfaction of guests depending on the different features to guide future guests to choose their desired accommodation type. The dataset consists of variables such as: 
-<br>
+- Link: https://absentdata.com/data-analysis/end-to-end-data-analysis-project/#google_vignette <br>
+- Direct link: https://github.com/KevinDinh03/SQL-and-PowerBI-Project/tree/main/Raw%20datasets <br>
 </br>
-Price: the price of the accommodation<br>
-Person Capacity: maximum person capacity per accommodation<br>
-Multiple Rooms: the number of rooms<br>
-Business<br>
-Cleanliness Rating: the cleanliness of the Airbnb<br>
-City Centre: distance from the Airbnb to the city centre<br>
-Metro Distance: distance from the Airbnb to the metro<br>
-Attraction Index: the attractiveness of the area of the Airbnb<br>
-Normalised Attraction Index<br>
-Restaurant Index: the quality of restaurants near the Airbnb<br>
-Normalised Restaurant Index<br>
-Room_Type_Entire home/apt<br>
-Room_Type_Private room<br>
-Room_Type_Shared room<br>
-Guest Satisfaction
+<h4 align="Left" style="color: red;">1) Product_data.csv </h4>
+
+**Columns description:**
+
+**Product ID:** ID of the product <br>
+**Product:** Name of the each product<br>
+**Category:** Type of product<br>
+**Cost Price:** Cost of the product<br>
+**Sale Price:** Price to purchase the product<br>
+**Brand:** Brand name<br>
+**Description:** Product description<br>
+**Image url:** Url to the product image<br></br>
+
+<h4 align="Left" style="color: red;">2) discount_data.csv </h4>
+
+**Columns description:**
+
+**Month:** Month of the discount<br>
+**Discount Band:** Band type of each discount<br>
+**Discount:** The amount of the discount<br></br>
+
+<h4 align="Left" style="color: red;">3) product_sales.csv </h4>
+
+**Columns description:**
+
+**Date:** Date of the sale<br>
+**Customer Type:** Type of customer<br>
+**Country:** Country destination of the sale<br>
+**Product:** The product id<br>
+**Discount Band:** Band type of the sale’s discount<br>
+**Units Sold:** Quantity of the product in the sale<br></br>
+
+</br>
+<h3 align="Left" style="color: red;">Final deliverables </h3>
+- Project report:
+- Final dataset and dashboard:
+
